@@ -1,0 +1,29 @@
+.navigationbar {
+    width:100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: blue;
+    color: white;
+
+}
+
+.header {
+    text-align:center;
+    font-size: 45px;
+    color: white;
+}
+
+.weatherCard {
+    width: 100%;
+    background-color: white;
+}
+
+.forecast {
+    display:flex;
+    justify-content: center;
+    background-color: purple;
+}
+
+
